@@ -1,2 +1,2 @@
 # About me
-My CV: https://github.com/MakuhIlyukh/MakuhIlyukh/blob/main/CV.pdf
+My CV: https://raw.githubusercontent.com/MakuhIlyukh/MakuhIlyukh/main/CV.pdf
